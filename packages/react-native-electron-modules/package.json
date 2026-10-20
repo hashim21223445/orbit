@@ -9,7 +9,7 @@
     "typecheck": "tsc"
   },
   "devDependencies": {
-    "electron": "28.2.0",
+    "electron": "41.10.6",
     "eslint-config-universe": "^15.0.3",
     "typescript": "^5.8.3"
   }

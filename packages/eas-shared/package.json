@@ -23,7 +23,7 @@
     "@types/lodash": "^4.17.4",
     "@types/node-fetch": "^2.6.4",
     "@types/semver": "^7.7.0",
-    "@types/tar": "^6.1.5",
+    "@types/tar": "^7.0.87",
     "@types/uuid": "^9.0.1",
     "eslint-config-universe": "^15.0.3",
     "expo-manifests": "^0.13.1",
@@ -34,7 +34,7 @@
     "@expo/multipart-body-parser": "^1.1.0",
     "@expo/osascript": "2.0.33",
     "@expo/spawn-async": "^1.7.2",
-    "axios": "0.27.2",
+    "axios": "0.34.0",
     "bplist-parser": "^0.3.0",
     "common-types": "1.0.0",
     "debug": "^4.3.4",
@@ -46,7 +46,7 @@
     "querystring": "0.2.0",
     "semver": "7.5.2",
     "system-ca": "^2.0.1",
-    "tar": "6.1.13",
+    "tar": "7.5.22",
     "tempy": "^0.7.1",
     "uuid": "9.0.0"
   }
